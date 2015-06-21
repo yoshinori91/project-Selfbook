@@ -4,3 +4,4 @@ from negi 1924
 from suke 0113
 from negi 0115
 from suke 0137
+from negi 0139
