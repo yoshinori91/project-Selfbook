@@ -1,2 +1,3 @@
 negishi desu
 add 1922
+from negi 1924
