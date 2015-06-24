@@ -20,3 +20,5 @@ project-negi 0216
 suke 0218
 
 from db insert
+
+from da insert
